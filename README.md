@@ -6,10 +6,6 @@ Download the latest version for your platform and architecture and start creatin
 
 ## Installtion on Linux
 
-```
-curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-```
-
 1. Download
 ```
 curl -LO https://github.com/cliffHQ/cli/archive/refs/tags/clif_TODO_FIX
