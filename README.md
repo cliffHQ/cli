@@ -1,4 +1,4 @@
-# Install on 
+# cliff CLI
 
 The cliff CLI supports all major platforms and architectures. If yours is missing, please create an issue and let us know.
 
