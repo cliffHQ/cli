@@ -41,6 +41,10 @@ mv ./cliff ~/.local/bin/cliff
 export PATH=$PATH:~/.local/bin/
 ```
 
-## Install on OSX
+## Install on macOS
+
+TODO
 
 ## Install on Windows
+
+TODO
