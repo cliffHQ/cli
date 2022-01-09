@@ -6,7 +6,7 @@ Typicall steps involved in getting the CLI to run:
 - ⬇️ download the latest version for your platform and architecture
 - 💻 rename the binary to cliff
 - 🧯 make the binary executable
-- 🖱️ put the binary somewhere on disk (eg: ~/.local/bin/ or /usr/local/bin/) and make sure this folder is in your $PATH
+- 🖱️ put the binary somewhere on disk (eg: ~/.local/bin/ or /usr/local/bin/) and make sure this folder is in your `$PATH`
 - 🎉 you're ready to go
 
 
