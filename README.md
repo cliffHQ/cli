@@ -2,7 +2,7 @@
 
 The cliff CLI supports all major platforms and architectures. If yours is missing, please create an issue and let us know.
 
-The typicall steps involved in getting the CLI to run are:
+Typicall steps involved in getting the CLI to run:
 - ⬇️ download the latest version for your platform and architecture
 - 💻 rename the binary to cliff
 - 🧯 make the binary executable
