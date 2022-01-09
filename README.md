@@ -11,8 +11,21 @@ Download the latest version for your platform and architecture and start creatin
 curl -LO https://github.com/cliffHQ/cli/archive/refs/tags/clif_TODO_FIX
 ```
 
-2. Checksum
+2. Verify binary
 ```
+curl -LO https://github.com/cliffHQ/cli/archive/refs/tags/clif_TODO_FIX.sha256
+echo "$(<cliff.sha256)  cliff" | sha256sum --check
+```
+
+If valid, the output is:
+```
+cliff: OK
+```
+
+If the check fails, sha256 prints smoething like:
+```
+cliff: FAILED
+sha256sum: WARNING: 1 computed checksum did NOT match
 ```
 
 3. Install
