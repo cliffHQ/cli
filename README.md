@@ -2,7 +2,13 @@
 
 The cliff CLI supports all major platforms and architectures. If yours is missing, please create an issue and let us know.
 
-Download the latest version for your platform and architecture and start creating forms.
+Here are the typicall steps involved in running the CLI
+- ⬇️ download the latest version for your platform and architecture
+- 💻 rename the binary to cliff
+- 🧯 make the binary executable
+- 🖱️ put the binary somewhere on disk (eg: ~/.local/bin/ or /usr/local/bin/) and make sure this folder is in your $PATH
+- 🎉 you're ready to go
+
 
 ## Install on Linux
 
