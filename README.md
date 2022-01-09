@@ -6,7 +6,7 @@ Typicall steps involved in getting the CLI to run:
 - ⬇️ download the latest version
 - 🧰 verify its checksum
 - 🧯 make it executable (eg: `chmod +x cliff`)
-- 🖱️ put it somewhere on disk (eg: `mv cliff ~/.local/bin/` or `mv cliff /usr/local/bin/`) and make sure this folder is in your `$PATH` (eg `export PATH=$PATH:~/.local/bin/`)
+- 🖱️ put it somewhere on disk (eg: `mv cliff ~/.local/bin/`) and make sure this folder is in your `$PATH` (eg `export PATH=$PATH:~/.local/bin/`)
 - 🎉 you're ready to go
 
 
