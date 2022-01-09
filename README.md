@@ -4,7 +4,7 @@ The cliff CLI supports all major platforms and architectures. If yours is missin
 
 Download the latest version for your platform and architecture and start creating forms.
 
-## Installtion on Linux
+## Install on Linux
 
 1. Download
 ```
