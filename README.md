@@ -3,10 +3,10 @@
 The cliff CLI is a simple binary and it supports all major platforms and architectures. If yours is missing, do let us know.
 
 Typicall steps involved in getting the CLI to run:
-- ⬇️ download the latest version for your platform and architecture
+- ⬇️ download the latest version
 - 🧰 verify its checksum
 - 🧯 make it executable (eg: `chmod +x cliff`)
-- 🖱️ put the it somewhere on disk (eg: `mv cliff ~/.local/bin/` or `mv cliff /usr/local/bin/`) and make sure this folder is in your `$PATH`
+- 🖱️ put it somewhere on disk (eg: `mv cliff ~/.local/bin/` or `mv cliff /usr/local/bin/`) and make sure this folder is in your `$PATH` (eg `export PATH=$PATH:~/.local/bin/`)
 - 🎉 you're ready to go
 
 
