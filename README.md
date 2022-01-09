@@ -5,8 +5,8 @@ The cliff CLI is a simple binary and it supports all major platforms and archite
 Typicall steps involved in getting the CLI to run:
 - ⬇️ download the latest version for your platform and architecture
 - 🧰 verify its checksum
-- 🧯 make the binary executable
-- 🖱️ put the it somewhere on disk (eg: ~/.local/bin/ or /usr/local/bin/) and make sure this folder is in your `$PATH`
+- 🧯 make it executable (eg: `chmod +x cliff`)
+- 🖱️ put the it somewhere on disk (eg: `mv cliff ~/.local/bin/` or `mv cliff /usr/local/bin/`) and make sure this folder is in your `$PATH`
 - 🎉 you're ready to go
 
 
